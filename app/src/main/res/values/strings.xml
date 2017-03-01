@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="quote_1">Innovation distinguished between a leader and a follower</string>
+    <string name="quote_2">I want to put a ding in the universe!</string>
+    <string name="quote_3">People don\'t know what they want until you show it to them.</string>
+    <string name="quote_4">The only way to be truly satisfied is to do what you believe is great work.</string>
+    <string name="quote_5">That\'s been one of my mantras -- focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it\'s worth it in the end because once you get there, you can move mountains.</string>
+    <string name="quote_6">If you love something, Set it free.</string>
+    <string name="quote_7">I have not failed, I\'ve just found 10,000 ways that won\'t work.</string>
+    <string name="quote_8">No matter how hard the past, you can always begin again.</string>
+    <string name="quote_9">Mistakes are always forgivable, if one has the courage to admit them.</string>
+    <string name="quote_10">Creativity is contagious, Pass it on.</string>
+
+</resources>
